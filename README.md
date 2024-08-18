@@ -1,8 +1,8 @@
 <div align="center">
 
-![Go-Proxy-BingAI](./docs/img/header.png)
+![GoPro-BingAI](./docs/img/header.png)
 
-# Go-Proxy-BingAI
+# GoPro-BingAI
 
 基于微软 New Bing 定制的微软 BingAI 演示站点
 
@@ -12,13 +12,13 @@
 
 ![Golang](https://img.shields.io/badge/Golang-1.22.1-blue?style=flat-square&logo=go) ![Vue3](https://img.shields.io/badge/Vue-3.3.2-green?style=flat-square&logo=vue.js)
 
-![GitHub stars](https://img.shields.io/github/stars/Harry-zklcdc/go-proxy-bingai.svg?style=flat-square&label=Stars&logo=github) ![GitHub forks](https://img.shields.io/github/forks/Harry-zklcdc/go-proxy-bingai.svg?style=flat-square&label=Forks&logo=github) ![Release](https://img.shields.io/github/v/release/Harry-zklcdc/go-proxy-bingai.svg?style=flat-square&label=Release&logo=github&color=light-green)
+![GitHub stars](https://img.shields.io/github/stars/Harry-zklcdc/go-proxy-bingai.svg?style=flat-square&label=Stars&logo=github) ![GitHub forks](https://img.shields.io/github/forks/willya/gopro-bingai.svg?style=flat-square&label=Forks&logo=github) ![Release](https://img.shields.io/github/v/release/willya/gopro-bingai.svg?style=flat-square&label=Release&logo=github&color=light-green)
 
 </div>
 
 ## 📋 目录
 
-- [Go-Proxy-BingAI](#Go-Proxy-BingAI)
+- [GoPro-BingAI](#GoPro-BingAI)
   
   - [教程](#-教程十分重要)
   - [一键部署](#-一键部署)
