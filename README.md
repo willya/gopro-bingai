@@ -1,6 +1,6 @@
 <div align="center">
 
-![GoPro-BingAI](./docs/img/header.png)
+![GoPro-BingAI]
 
 # GoPro-BingAI
 
