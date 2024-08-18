@@ -30,7 +30,7 @@
 ## 📝 教程（十分重要）
 
 > [!WARNING]
-> 查看 [**>>>快速教程<<<**](https://github.com/Harry-zklcdc/go-proxy-bingai/wiki)
+> 查看 [**>>>快速教程<<<**](https://github.com/willya/gopro-bingai/wiki)
 
 ## 🚀 一键部署
 
@@ -38,17 +38,17 @@
 
 > #### CodeSandbox 部署
 >
-> [![Edit BingAI](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/github/Harry-zklcdc/go-proxy-bingai/tree/master?import=true)
+> [![Edit BingAI](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/github/willya/gopro-bingai/tree/master?import=true)
 
 ### BingAI 本体
 
 > #### Cloudflare Worker 部署
 >
-> [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Harry-zklcdc/go-proxy-bingai)
+> [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/willya/gopro-bingai)
 
 > #### Vercel 部署
 >
-> [![Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHarry-zklcdc%2Fgo-proxy-bingai&env=BYPASS_SERVER&project-name=go-proxy-bingai&repository-name=go-proxy-bingai)
+> [![Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwillya%2Fgopro-bingai&env=BYPASS_SERVER&project-name=gopro-bingai&repository-name=gopro-bingai)
 
 > #### Zeabur 部署
 >
@@ -56,17 +56,17 @@
 
 > #### Glitch 部署
 >
-> [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Harry-zklcdc/go-proxy-bingai-glitch)
+> [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/willya/gopro-bingai-glitch)
 
 > #### Replit 部署
 >
-> [![Run on Repl.it](https://img.shields.io/badge/Run_on_Repl.it-grey?logo=replit&size=large)](https://repl.it/github/Harry-zklcdc/go-proxy-bingai)
+> [![Run on Repl.it](https://img.shields.io/badge/Run_on_Repl.it-grey?logo=replit&size=large)](https://repl.it/github/willya/gopro-bingai)
 
 ### 人机验证服务器
 
 > #### CodeSandbox 部署
 >
-> [![Edit BingAI](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/github/Harry-zklcdc/go-bingai-pass/tree/main?import=true)
+> [![Edit BingAI](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/github/willya/go-bingai-pass/tree/main?import=true)
 
 ## 🚧 特色简介
 
@@ -82,9 +82,9 @@
 
 ✅ 登录账号支持画图
 
-✅ 支持侧边栏聊天和撰写 - [Chrome插件](https://github.com/Harry-zklcdc/bingai-sidebar-chrome)
+✅ 支持侧边栏聊天和撰写 - [Chrome插件](https://github.com/willya/bingai-sidebar-chrome)
 
-✅ 支持 OpenAI 格式 API 调用 - [📝 Wiki文档](https://github.com/Harry-zklcdc/go-proxy-bingai/wiki/BingAPI)
+✅ 支持 OpenAI 格式 API 调用 - [📝 Wiki文档](https://github.com/willya/gopro-bingai/wiki/BingAPI)
 
 ## 📌 效果展示
 
@@ -133,7 +133,7 @@
 
 [![加入 QQ 频道](https://img.shields.io/badge/加入_QQ_频道-ProxyBingAI🚀-blue?style=flat-square&logo=tencent-qq&color=red)](https://pd.qq.com/s/55utr9wd4)
 
-[![Github Issus](https://img.shields.io/github/issues/Harry-zklcdc/go-proxy-bingai?style=flat-square&logo=github)](https://github.com/Harry-zklcdc/go-proxy-bingai/issues)
+[![Github Issus](https://img.shields.io/github/issues/Harry-zklcdc/go-proxy-bingai?style=flat-square&logo=github)](https://github.com/willya/gopro-bingai/issues)
 
 [![加入 Telegram 群组](https://img.shields.io/badge/加入_Telegram_群组-ProxyBingAI🚀-blue?style=flat-square&logo=telegram)](https://t.me/GoProxyBingAI)
 
@@ -157,11 +157,11 @@
 
 <div align="center">
 
-<a href="https://star-history.com/#Harry-zklcdc/go-proxy-bingai&Date">
+<a href="https://star-history.com/#willya/gopro-bingai&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Harry-zklcdc/go-proxy-bingai&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Harry-zklcdc/go-proxy-bingai&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Harry-zklcdc/go-proxy-bingai&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=willya/gopro-bingai&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=willya/gopro-bingai&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=willya/gopro-bingai&type=Date" />
   </picture>
 </a>
 
